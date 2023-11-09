@@ -18,10 +18,10 @@ PRODIGy dialogues are aligned with the following dimensions of one of the speake
 | **Turns**                | 80604          |
 | **Annotated Characters** | 339            |
 | ------------------------ | -------------- |
-| **Turns per Dialogue**   | 4 ($\pm$3.28)  |
-| **Dialogues per Character** | 78 ($\pm$31.21) |
-| **Sentences per Bio**    | 8 ($\pm$1.57)  |
-| **Token per Bio sentence** | 13 ($\pm$5.66)|
+| **Turns per Dialogue**   | 4 (&plusmn;3.28)  |
+| **Dialogues per Character** | 78 (&plusmn;31.21) |
+| **Sentences per Bio**    | 8 (&plusmn;1.57)  |
+| **Token per Bio sentence** | 13 (&plusmn;5.66)|
 
 ## File Description
 
