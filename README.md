@@ -1,10 +1,10 @@
 # PRODIGy: a PROfile-based DIalogue Generation dataset
 
-Welcome to the PRODIGy repository! PRODIGy is a collection of dialogues, featured in the work titled **PRODIGy: a PROfile-based DIalogue Generation dataset**, in which each conversation is aligned with speaker profile representations, including language style, gender, and personality.
+Welcome to the PRODIGy repository! PRODIGy is a collection of dialogues, featured in the work titled [**PRODIGy: a PROfile-based DIalogue Generation dataset**](https://arxiv.org/abs/2311.05195), in which each conversation is aligned with speaker profile representations, including language style, gender, and personality.
 
 ## Overview
 
-We created PRODIGy starting from the Cornell Movie Dialogs Corpus ([Cristian Danescu-Niculescu-Mizil and Lillian Lee, 2011](https://aclanthology.org/W11-0609/)), a dataset comprising dialogues between two speakers from movie scripts. In our work, we associated the characters with personality information, specifically the Myers–Briggs Type Indicator (MBTI) personality types, biography description and gender type. To account for the diversity in the way a biography can be expressed, we generate two alternative paraphrases for every sentence in the biography, which have been incorporated into our dataset. More details on the creation of the dataset can be found in our paper.
+We created PRODIGy starting from the Cornell Movie Dialogs Corpus (Cristian Danescu-Niculescu-Mizil and Lillian Lee, 2011), a dataset comprising dialogues between two speakers from movie scripts. In our work, we associated the characters with personality information, specifically the Myers–Briggs Type Indicator (MBTI) personality types, biography description and gender information. To account for the diversity in the way a biography can be expressed, we generate two alternative paraphrases for every sentence in the biography, which have been incorporated into our dataset. More details on the creation of the dataset can be found in our paper.
 
 <p align="center">
   <img src="imgs/persona_pic.png" width="400" alt="Persona Picture">
@@ -47,4 +47,15 @@ For a deeper understanding of these experimental configurations, refer to our pa
 
 Further details can be found in our paper:
 
-TBA
+Daniela Occhipinti, Serra Sinem Tekiroglu, Marco Guerini. 2023. *PRODIGy: a PROfile-based DIalogue Generation dataset*. arXiv preprint arXiv:2311.05195
+
+```bibtex
+@misc{occhipinti2023prodigy,
+  title={PRODIGy: a PROfile-based DIalogue Generation dataset},
+  author={Daniela Occhipinti and Serra Sinem Tekiroglu and Marco Guerini},
+  year={2023},
+  eprint={2311.05195},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL}
+}
+```
