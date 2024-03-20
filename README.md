@@ -1,6 +1,6 @@
 # PRODIGy: a PROfile-based DIalogue Generation dataset
 
-Welcome to the PRODIGy repository! PRODIGy is a collection of dialogues, featured in the work titled [**PRODIGy: a PROfile-based DIalogue Generation dataset**](https://arxiv.org/abs/2311.05195), in which each conversation is aligned with speaker profile representations, including biography language style, gender, and personality.
+Welcome to the PRODIGy repository! PRODIGy is a collection of dialogues, featured in the work titled [**PRODIGy: a PROfile-based DIalogue Generation dataset**](https://arxiv.org/abs/2311.05195), in which each conversation is aligned with speaker profile representations, including biography, language style, gender, and personality.
 
 ## Overview
 
