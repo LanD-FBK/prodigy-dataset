@@ -1,4 +1,4 @@
-[
+{
     "u0": {
         "character_name": "BIANCA",
         "movie_id": "m0",
@@ -121,7 +121,7 @@
         "movie_id": "m8",
         "movie_name": "a nightmare on elm street: the dream child",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I work as a waitress at Crave Inn, that is a diner.",
             "I have the unique ability to pull people into my dreams.",
@@ -161,7 +161,7 @@
         "movie_id": "m15",
         "movie_name": "aliens",
         "gender": "female",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I live aboard the space freighter Nostromo.",
             "I grew up in the moon-based American space colony, Olympia.",
@@ -201,7 +201,7 @@
         "movie_id": "m16",
         "movie_name": "amadeus",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am a composer.",
             "I grew up in Salzburg, Austria.",
@@ -244,7 +244,7 @@
         "movie_id": "m16",
         "movie_name": "amadeus",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, judger",
+        "mbti": "introvert, intuitive, thinker, judger",
         "biography": [
             "I am composer.",
             "I am single since I swore my chastity to God, but I have been thinking a lot about a certain soprano.",
@@ -281,7 +281,7 @@
         "movie_id": "m20",
         "movie_name": "american psycho",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, judger",
+        "mbti": "extrovert, intuitive, thinker, judger",
         "biography": [
             "I am an investment banker at Pierce & Pierce.",
             "I have a fiancée who is getting annoying, her name is Evelyn.",
@@ -321,7 +321,7 @@
         "movie_id": "m22",
         "movie_name": "austin powers: international man of mystery",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am a spy.",
             "I live in Las Vegas in the late 1990s.",
@@ -358,7 +358,7 @@
         "movie_id": "m30",
         "movie_name": "big fish",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I have been a circus performer, a soldier during the Korean War, and a traveling salesman.",
             "I am in love with Sandra, a woman who was engaged to another man named Don when we first met, but I ultimately won her hand.",
@@ -401,7 +401,7 @@
         "movie_id": "m30",
         "movie_name": "big fish",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am the newly married son of a born storyteller.",
             "My father Edward has always told tall tales, and I complain that it has created an untrustworthy relationship between us.",
@@ -509,7 +509,7 @@
         "movie_id": "m36",
         "movie_name": "blue velvet",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I'm a student.",
             "I live in Lumbertown, in a beautiful house with a perfect lawn and a white picket fence.",
@@ -546,7 +546,7 @@
         "movie_id": "m36",
         "movie_name": "blue velvet",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I'm the daughter of the police detective in small-town America.",
             "I help student Jeffrey Beaumont to understand whose a severed human ear he has found.",
@@ -620,7 +620,7 @@
         "movie_id": "m41",
         "movie_name": "the butterfly effect",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I am a student and time traveler.",
             "I live across the space-time continuum; I am currently studying in New York City.",
@@ -660,7 +660,7 @@
         "movie_id": "m42",
         "movie_name": "casablanca",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I am resistance fighter.",
             "I live as a fugitive in Casablanca, circa 1941.",
@@ -700,7 +700,7 @@
         "movie_id": "m42",
         "movie_name": "casablanca",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am an unabashedly corrupt prefect of police.",
             "I am an absolute wild card and completely unpredictable.",
@@ -808,7 +808,7 @@
         "movie_id": "m50",
         "movie_name": "donnie darko",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I am a high school rebel.",
             "I live with my family in Middlesex, Virginia, a typical, miserable, suburban village.",
@@ -876,7 +876,7 @@
         "movie_id": "m55",
         "movie_name": "eternal sunshine of the spotless mind",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I'm a bookstore clerk.",
             "I am single and frustrated with the dating scene.",
@@ -1028,7 +1028,7 @@
         "movie_id": "m58",
         "movie_name": "fantastic four",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I am the leader of the Fantastic Four, a superhero team protecting mankind.",
             "I am living with newfound amazing powers.",
@@ -1071,7 +1071,7 @@
         "movie_id": "m58",
         "movie_name": "fantastic four",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, judger",
+        "mbti": "extrovert, intuitive, feeler, judger",
         "biography": [
             "I am a former chief genetics researcher for Doctor Victor von Doom.",
             "I live in New York City, struggling to adjust to my new superpowers.",
@@ -1157,7 +1157,7 @@
         "movie_id": "m60",
         "movie_name": "fear and loathing in las vegas",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am a drug-addled journalist on a wild trip to Vegas in search of the American Dream.",
             "I am manic, volatile, and brilliant.",
@@ -1191,7 +1191,7 @@
         "movie_id": "m65",
         "movie_name": "from dusk till dawn",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, judger",
+        "mbti": "extrovert, intuitive, thinker, judger",
         "biography": [
             "I am a convict on the run with his younger brother.",
             "I am cool, short-fused, and sociopathic.",
@@ -1376,7 +1376,7 @@
         "movie_id": "m74",
         "movie_name": "ghostbusters ii",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am a former professor of parapsychology.",
             "I live in Brooklyn, New York with my fellow parapsychologists, Ray Stantz and Egon Spengler.",
@@ -1419,7 +1419,7 @@
         "movie_id": "m75",
         "movie_name": "ghostbusters",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am a former professor of parapsychology.",
             "I live in Brooklyn, New York with my fellow parapsychologists, Ray Stantz and Egon Spengler.",
@@ -1460,7 +1460,7 @@
         "movie_id": "m77",
         "movie_name": "the graduate",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I am unemployed.",
             "I live back in Los Angeles after college, but I am finding it hard to live there as an adult.",
@@ -1565,7 +1565,7 @@
         "movie_id": "m84",
         "movie_name": "harold and maude",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a student.",
             "I live in my mother's lavish house in the San Francisco Bay Area.",
@@ -1608,7 +1608,7 @@
         "movie_id": "m84",
         "movie_name": "harold and maude",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am not a typical 79-year-old woman.",
             "I am vivid, impulsive, and ever-changing.",
@@ -1667,7 +1667,7 @@
         "movie_id": "m87",
         "movie_name": "hellraiser",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I began to notice a strange derelict man shadowing me on the streets and at the pet store where I work.",
             "I acquired my own lodgings in town with my boyfriend Steve.",
@@ -1704,7 +1704,7 @@
         "movie_id": "m88",
         "movie_name": "high fidelity",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am the owner of my own record store.",
             "I live alone, after a recent breakup with Laura, who was supposed to be the love of my life.",
@@ -1747,7 +1747,7 @@
         "movie_id": "m98",
         "movie_name": "indiana jones and the last crusade",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "In 1900, I took a teaching position as professor of medieval literature at Princeton University.",
             "I was born in Scotland on December 12 in 1872.",
@@ -1901,7 +1901,7 @@
         "movie_id": "m106",
         "movie_name": "jacob's ladder",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I am a former American soldier, trying to figure out what the Army did to me and my fellow soldiers.",
             "I am religious, tormented, and paranoid.",
@@ -1935,7 +1935,7 @@
         "movie_id": "m109",
         "movie_name": "juno",
         "gender": "female",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am a high school student.",
             "I am single, but pregnant.",
@@ -2098,7 +2098,7 @@
         "movie_id": "m117",
         "movie_name": "legally blonde",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, judger",
+        "mbti": "extrovert, intuitive, feeler, judger",
         "biography": [
             "I live in Cambridge, Massachusetts, where I attend Harvard Law School.",
             "I grew up in Bel Air across the street from Aaron Spelling, I went to college at USC.",
@@ -2255,7 +2255,7 @@
         "movie_id": "m139",
         "movie_name": "mr. smith goes to washington",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am a junior Senator in my first term.",
             "I am real crazy about Senator Paine's daughter, Susan, but she doesn't have much interest in me.",
@@ -2292,7 +2292,7 @@
         "movie_id": "m142",
         "movie_name": "the mummy",
         "gender": "female",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I moved from England to Cairo to better study my favorite topic, ancient Egypt.",
             "I am a 1920s librarian and aspiring Egyptologist.",
@@ -2394,7 +2394,7 @@
         "movie_id": "m148",
         "movie_name": "a nightmare on elm street",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I am a high school student.",
             "I live on Elm Street in the 1980’s.",
@@ -2434,7 +2434,7 @@
         "movie_id": "m153",
         "movie_name": "o brother, where art thou?",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am an outlaw.",
             "I live on the flat Mississippi Delta countryside since I escaped from Parchman Farm penitentiary in Mississippi.",
@@ -2560,7 +2560,7 @@
         "movie_id": "m162",
         "movie_name": "pleasantville",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I am a high school student.",
             "I live in my average late 1990s family with my shallow and self-absorbed twin sister Jennifer and our mother.",
@@ -2683,7 +2683,7 @@
         "movie_id": "m167",
         "movie_name": "rear window",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, judger",
+        "mbti": "extrovert, intuitive, feeler, judger",
         "biography": [
             "I am a stunning fashion model with dresses for every day of the year.",
             "Even if Jeff, a photographer, may be in love with me, he believes our different lifestyles mean our relationship is doomed.",
@@ -2760,7 +2760,7 @@
         "movie_id": "m170",
         "movie_name": "reservoir dogs",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, judger",
+        "mbti": "extrovert, intuitive, feeler, judger",
         "biography": [
             "I am a veteran criminal.",
             "I am only living in Los Angeles temporarily for my new job.",
@@ -2800,7 +2800,7 @@
         "movie_id": "m172",
         "movie_name": "scary movie 2",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a paranormal researcher and have to deal with ghosts.",
             "I have a rather unfortunate track record when it comes to relationships.",
@@ -2883,7 +2883,7 @@
         "movie_id": "m182",
         "movie_name": "the sixth sense",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I am a 9-year-old who claims to see dead people.",
             "I am haunted to the point that my mother sends me to child psychologist Malcolm Crowe.",
@@ -2923,7 +2923,7 @@
         "movie_id": "m182",
         "movie_name": "the sixth sense",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I am a child psychologist, I received a PhD, giving me the title of Doctor; I am a very intelligent doctor.",
             "I am married; my wife and I love each other deeply, but we have been having problems for years.",
@@ -2960,7 +2960,7 @@
         "movie_id": "m189",
         "movie_name": "spider-man",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a superhero and freelance photographer taking and selling pictures of myself as Spider-Man.",
             "I am kind, reserved, clever, a lifelong outcast and I tend to be reserved and quiet.",
@@ -3003,7 +3003,7 @@
         "movie_id": "m203",
         "movie_name": "the godfather",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, judger",
+        "mbti": "introvert, intuitive, thinker, judger",
         "biography": [
             "I am the youngest son of Vito Corleone, a powerful Italian-American crime boss in New York City.",
             "I am an ex-marine.",
@@ -3074,7 +3074,7 @@
         "movie_id": "m204",
         "movie_name": "the talented mr. ripley",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I am struggling to make a living doing odd jobs, which usually involve some low-risk cheating.",
             "I live in a small, dilapidated 1950’s New York City. It's not a life of luxury, but it will suffice until I can change my fortunes.",
@@ -3191,7 +3191,7 @@
         "movie_id": "m211",
         "movie_name": "the day the earth stood still",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I am an interstellar police officer.",
             "I am a Extraterrestrial Humanoid with a strange anthropomorphic appearance, as I am wearing a kind of spatial biosuit.",
@@ -3262,7 +3262,7 @@
         "movie_id": "m212",
         "movie_name": "the lost boys",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a student on vacation.",
             "I live in Santa Carla, California.",
@@ -3336,7 +3336,7 @@
         "movie_id": "m214",
         "movie_name": "the time machine",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I am a a scientist and inventor.",
             "I teach at Columbia University in New York City.",
@@ -3407,7 +3407,7 @@
         "movie_id": "m216",
         "movie_name": "thelma & louise",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am a housewife.",
             "I live with my husband, Darryl, who treats me like a child.",
@@ -3610,7 +3610,7 @@
         "movie_id": "m221",
         "movie_name": "total recall",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, judger",
+        "mbti": "introvert, intuitive, thinker, judger",
         "biography": [
             "I am a construction worker on Earth in 2048 who’s about to embark on a very strange trip.",
             "I don’t know who to trust, but it all has to do with Mars’ ruthless governor, Vilos Cohaagen, and the rebels fighting me.",
@@ -3644,7 +3644,7 @@
         "movie_id": "m229",
         "movie_name": "wild at heart",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am the daughter of Marietta Fortune, an evil woman, who hired Bobby Ray Lemon to kill my boyfriend, Sailor.",
             "I am energetic, loyal, and dangerous to be around.",
@@ -3761,7 +3761,7 @@
         "movie_id": "m238",
         "movie_name": "all about eve",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I am aspiring actress.",
             "I am single. I only have eyes for a man who can help me climb the ranks of the Broadway system.",
@@ -3930,7 +3930,7 @@
         "movie_id": "m240",
         "movie_name": "american pie",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, judger",
+        "mbti": "extrovert, intuitive, feeler, judger",
         "biography": [
             "I am a high school student and star athlete.",
             "I live with a bad reputation, in western Michigan.",
@@ -4016,7 +4016,7 @@
         "movie_id": "m243",
         "movie_name": "annie hall",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I am a writer; my artistic material is all based on my real-life experiences.",
             "I live in the 1970s in New York City.",
@@ -4056,7 +4056,7 @@
         "movie_id": "m243",
         "movie_name": "annie hall",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am aspiring singer.",
             "I live in the 1970s on the crowded island of Manhattan with Alvy Singer, a comedian I met at my tennis club.",
@@ -4099,7 +4099,7 @@
         "movie_id": "m246",
         "movie_name": "the apartment",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am an adorable elevator operator in the Manhattan building that houses Consolidated Life insurance company.",
             "I am pixie-ish, quick-witted, and friendly; it makes sense that men love flirting with me.",
@@ -4173,7 +4173,7 @@
         "movie_id": "m249",
         "movie_name": "as good as it gets",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, judger",
+        "mbti": "extrovert, intuitive, feeler, judger",
         "biography": [
             "I am a waitress in a diner.",
             "I live in New York in the Emergency Room, at least it feels that way.",
@@ -4290,7 +4290,7 @@
         "movie_id": "m252",
         "movie_name": "a walk to remember",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a high school student, but I don't love going there as other kids make fun of me because I am different.",
             "I live in Beaufort, N.C. I live with my father, who is a preacher.",
@@ -4367,7 +4367,7 @@
         "movie_id": "m253",
         "movie_name": "back to the future",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am an inventor. I spend my time toiling away in my garage-turned-laboratory, where I invented the flux capacitor.",
             "I live in 1985, on the verge of completing my vaunted time machine: a DeLorean DMC-12 sports car.",
@@ -4435,7 +4435,7 @@
         "movie_id": "m256",
         "movie_name": "barton fink",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a screenwriter at Capitol Pictures, not exactly the most stable one.",
             "I live alone, in Hollywood's Hotel Earle.",
@@ -4475,7 +4475,7 @@
         "movie_id": "m257",
         "movie_name": "basic instinct",
         "gender": "female",
-        "mbti": "introvert, intuititive, thinker, judger",
+        "mbti": "introvert, intuitive, thinker, judger",
         "biography": [
             "I work as a crime novelist.",
             "I am suspected of the homicide of my boyfriend Johnny Boz, who was a rockstar.",
@@ -4549,7 +4549,7 @@
         "movie_id": "m261",
         "movie_name": "batman forever",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, judger",
+        "mbti": "introvert, intuitive, thinker, judger",
         "biography": [
             "I am a billionaire playboy by day, caped avenger by night.",
             "I live in the rebuilt Wayne Manor.",
@@ -4586,7 +4586,7 @@
         "movie_id": "m262",
         "movie_name": "batman",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I am a beautiful prize-winning photo journalist.",
             "I have a relationship with Bruce Wayne, a billionaire industrialist, but I am upset over his frequent absences.",
@@ -4731,7 +4731,7 @@
         "movie_id": "m265",
         "movie_name": "beetle juice",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, judger",
+        "mbti": "extrovert, intuitive, feeler, judger",
         "biography": [
             "I am the wife of Adam Maitland, who is a ghost like me.",
             "I prefer to spend my vacation at home, decorating my Victorian home in a quaint decor.",
@@ -4765,7 +4765,7 @@
         "movie_id": "m265",
         "movie_name": "beetle juice",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am the daughter of Charles, a former real estate developer, and the step-daughter of Delia, a sculptor.",
             "I love writing poetry, taking photographs, and love to the supernatural and paranormal.",
@@ -4848,7 +4848,7 @@
         "movie_id": "m267",
         "movie_name": "being john malkovich",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a file clerk at LesterCorp, although I am not really sure what the company is or what it does.",
             "I live in New York City, with my pet-loving girlfriend Lotte and her chimpanzee.",
@@ -5014,7 +5014,7 @@
         "movie_id": "m276",
         "movie_name": "blow",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, judger",
+        "mbti": "extrovert, intuitive, thinker, judger",
         "biography": [
             "I am a drug dealer specializing in cocaine. I got into the business after I got out of prison in Danbury, Connecticut, where I was locked up for dealing marijuana.",
             "I live in Miami.",
@@ -5110,7 +5110,7 @@
         "movie_id": "m283",
         "movie_name": "brazil",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am working for a government that's the very image of a dystopian bureaucracy",
             "I live in an oppressively hot bedroom, smushed in between other oppressively hot bedrooms.",
@@ -5228,7 +5228,7 @@
         "movie_id": "m293",
         "movie_name": "charade",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am an expatriate American working as a simultaneous interpreter.",
             "I am divorcing my husband, Charles.",
@@ -5296,7 +5296,7 @@
         "movie_id": "m297",
         "movie_name": "nuovo cinema paradiso",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am a film director as an adult; as a child worked in the Cinema Paradiso with Alfredo, the cinema's projectionist ",
             "I live in Rome.",
@@ -5416,7 +5416,7 @@
         "movie_id": "m299",
         "movie_name": "clerks.",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am a clerk at RST Videomovie rental place; I am the worst employee ever.",
             "I live in Leonardo, New Jersey.",
@@ -5456,7 +5456,7 @@
         "movie_id": "m301",
         "movie_name": "a clockwork orange",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, judger",
+        "mbti": "introvert, intuitive, thinker, judger",
         "biography": [
             "I am a gang leader.",
             "I am very single.",
@@ -5490,7 +5490,7 @@
         "movie_id": "m302",
         "movie_name": "collateral",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, judger",
+        "mbti": "introvert, intuitive, thinker, judger",
         "biography": [
             "I am a contract killer, posing as a businessman: I'm paying the taxi driver Max to take me as his only fare for the night.",
             "I live in the underworld of Los Angeles.",
@@ -5610,7 +5610,7 @@
         "movie_id": "m312",
         "movie_name": "cruel intentions",
         "gender": "female",
-        "mbti": "extrovert, intuititive, thinker, judger",
+        "mbti": "extrovert, intuitive, thinker, judger",
         "biography": [
             "I am straight a student, President of the French Club, and professional manipulator.",
             "I am living a perfect life, as it seems from the outside.",
@@ -5653,7 +5653,7 @@
         "movie_id": "m318",
         "movie_name": "dead poets society",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, judger",
+        "mbti": "extrovert, intuitive, feeler, judger",
         "biography": [
             "I am a student, actor and member of the Dead Poets Society.",
             "I live in my dorm at the prestigious Welton Academy.",
@@ -5693,7 +5693,7 @@
         "movie_id": "m320",
         "movie_name": "the deer hunter",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am a young steelworker.",
             "I live in the small town of Clairton, Pennsylvania.",
@@ -5724,7 +5724,7 @@
         "movie_id": "m324",
         "movie_name": "dog day afternoon",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am unemployed and struggling to find a job.",
             "I live in New York City, with my wife and kids.",
@@ -5832,7 +5832,7 @@
         "movie_id": "m327",
         "movie_name": "dumb and dumberer: when harry met lloyd",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am a limo driver for now.",
             "I live in Providence, Rhode Island, with my best friend Harry: it requires more money than we have.",
@@ -5909,7 +5909,7 @@
         "movie_id": "m329",
         "movie_name": "ed wood",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am actor, director, writer, and producer.",
             "I live in Hollywood.",
@@ -6072,7 +6072,7 @@
         "movie_id": "m334",
         "movie_name": "the english patient",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a nurse.",
             "I live with a severely burnt patient who remembers nothing in an abandoned Italian village",
@@ -6112,7 +6112,7 @@
         "movie_id": "m336",
         "movie_name": "erin brockovich",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am a file clerk: before that, I was unemployed and searched desperately for a job.",
             "I live in a small dump with Salvation Army furniture and my three children.",
@@ -6316,7 +6316,7 @@
         "movie_id": "m341",
         "movie_name": "the exorcist",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I am a troubled priest and psychiatric counselor.",
             "I am an expert boxer.",
@@ -6350,7 +6350,7 @@
         "movie_id": "m343",
         "movie_name": "face/off",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I'm a special agent for the FBI.",
             "I am as married to my work as I am to my wife.",
@@ -6464,7 +6464,7 @@
         "movie_id": "m348",
         "movie_name": "fight club",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I'm a movie projectionist and waiter.",
             "I live in a rented house in the toxic waste part of town.",
@@ -6501,7 +6501,7 @@
         "movie_id": "m349",
         "movie_name": "final destination 2",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a former college student.",
             "I was born on June 9, in White Plains, New York.",
@@ -6572,7 +6572,7 @@
         "movie_id": "m365",
         "movie_name": "gattaca",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, judger",
+        "mbti": "introvert, intuitive, thinker, judger",
         "biography": [
             "I was conceived through genetic selection and was one with perfect genetics.",
             "I am strong-willed and sarcastic.",
@@ -6677,7 +6677,7 @@
         "movie_id": "m368",
         "movie_name": "glengarry glen ross",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am a real estate salesman.",
             "I live in Chicago, in my office.",
@@ -6745,7 +6745,7 @@
         "movie_id": "m369",
         "movie_name": "the godfather: part ii",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, judger",
+        "mbti": "introvert, intuitive, thinker, judger",
         "biography": [
             "I am the youngest son of Vito Corleone, a powerful Italian-American crime boss in New York City.",
             "I am an ex-marine.",
@@ -6828,7 +6828,7 @@
         "movie_id": "m377",
         "movie_name": "hackers",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I am a hacker and a high school student.",
             "I moved to New York with my mother for a fresh start.",
@@ -6890,7 +6890,7 @@
         "movie_id": "m399",
         "movie_name": "interview with the vampire: the vampire chronicles",
         "gender": "female",
-        "mbti": "introvert, intuititive, thinker, judger",
+        "mbti": "introvert, intuitive, thinker, judger",
         "biography": [
             "I am a prepubescent girl cursed to live eternally in the body of a girl.",
             "I was transformed into a vampire by Lestat, a cruel and powerful vampire.",
@@ -6964,7 +6964,7 @@
         "movie_id": "m399",
         "movie_name": "interview with the vampire: the vampire chronicles",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a plantation owner.",
             "I am a vampire now because of the vampire Lestat, who prolonged the life I hated.",
@@ -7007,7 +7007,7 @@
         "movie_id": "m405",
         "movie_name": "jaws: the revenge",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I am a housewife.",
             "I live in Amity Beach, where a killer shark is terrorizing locals and summer tourists.",
@@ -7035,7 +7035,7 @@
         "movie_id": "m408",
         "movie_name": "jerry maguire",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a single mom of a beautiful young boy, I dream big.",
             "I date Jerry Maguire, a thought-provoking, inspirational boss, who promises to be there for me – for better or worse.",
@@ -7069,7 +7069,7 @@
         "movie_id": "m408",
         "movie_name": "jerry maguire",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, judger",
+        "mbti": "extrovert, intuitive, thinker, judger",
         "biography": [
             "I am a sports agent and I was born to be one.",
             "I live alone in southern California.",
@@ -7149,7 +7149,7 @@
         "movie_id": "m411",
         "movie_name": "jurassic park",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, judger",
+        "mbti": "extrovert, intuitive, feeler, judger",
         "biography": [
             "I am a paleobotonaist not entirely happy with Jurassic Park’s manufactured ecosystem.",
             "I am visiting Jurassic Park, a new park where bioengineers cloned dinosaurs using fossil DNA.",
@@ -7232,7 +7232,7 @@
         "movie_id": "m411",
         "movie_name": "jurassic park",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am a flamboyant venture capitalist from Scotland, building my fortune in Petticoat Lane, England.",
             "I hold parks in Kenya, Costa Rica, and other tropical locations.",
@@ -7263,7 +7263,7 @@
         "movie_id": "m419",
         "movie_name": "the silence of the lambs",
         "gender": "female",
-        "mbti": "introvert, intuititive, thinker, judger",
+        "mbti": "introvert, intuitive, thinker, judger",
         "biography": [
             "I am a FBI agent-in-training; I hope to join the Behavioral Science Unit as a psychological investigator.",
             "I live as a student at the FBI Academy.",
@@ -7303,7 +7303,7 @@
         "movie_id": "m425",
         "movie_name": "lost in translation",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I am semi-retired actor, I had a successful career.",
             "I am visiting Tokyo, where I am filming a commercial for Suntory whiskey.",
@@ -7346,7 +7346,7 @@
         "movie_id": "m431",
         "movie_name": "manhunter",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I am an FBI profiler responsible for the capture of serial killer Hannibal Lecktor, a notorious serial killer.",
             "I have a wife and a son.",
@@ -7377,7 +7377,7 @@
         "movie_id": "m433",
         "movie_name": "the matrix",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I grew up in the Matrix, a complex computer program designed to emulate real life.",
             "I live in the real world now, aboard the Nebuchadnezzar, a large flying ship",
@@ -7463,7 +7463,7 @@
         "movie_id": "m435",
         "movie_name": "meet joe black",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a billionaire with a good heart.",
             "I am wise and caring.",
@@ -7700,7 +7700,7 @@
         "movie_id": "m445",
         "movie_name": "monty python and the holy grail",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, judger",
+        "mbti": "extrovert, intuitive, thinker, judger",
         "biography": [
             "I am the King of the Britons.",
             "I am searching for brave knights who would accompany me to Camelot.",
@@ -7768,7 +7768,7 @@
         "movie_id": "m450",
         "movie_name": "my girl 2",
         "gender": "female",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I am a student at a school I hate, as girls there tease me, and boys are afraid of me.",
             "I live in a funeral home with my dad in Madison, Pennsylvania.",
@@ -7811,7 +7811,7 @@
         "movie_id": "m451",
         "movie_name": "my girl",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, judger",
+        "mbti": "extrovert, intuitive, feeler, judger",
         "biography": [
             "I am the new makeup artist at the funeral parlor.",
             "I am cheerful and quirky.",
@@ -7879,7 +7879,7 @@
         "movie_id": "m454",
         "movie_name": "natural born killers",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am a young, energetic, commando and unscrupulous tabloid journalist.",
             "I host a show called American Maniacs, which profiles mass murderers.",
@@ -7907,7 +7907,7 @@
         "movie_id": "m458",
         "movie_name": "never been kissed",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a copy editor at the Chicago Sun-Times, I aspire to write articles instead of fixing grammatical errors.",
             "I live as a grown-up version of my awkward, geeky self in Chicago.",
@@ -7950,7 +7950,7 @@
         "movie_id": "m460",
         "movie_name": "a nightmare on elm street part 2: freddy's revenge",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a Springwood High School student.",
             "I, my parents, and my sister move in a new house on Elm Street where I begin to have nightmares.",
@@ -7993,7 +7993,7 @@
         "movie_id": "m461",
         "movie_name": "a nightmare on elm street 3: dream warriors",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I am a high school student.",
             "I live on Elm Street in the 1980’s.",
@@ -8119,7 +8119,7 @@
         "movie_id": "m464",
         "movie_name": "only you",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "After playing with a Ouija board with my brother Larry, I am convinced that my soul mate is named Damon Bradley.",
             "I am a teacher at a Catholic school.",
@@ -8147,7 +8147,7 @@
         "movie_id": "m464",
         "movie_name": "only you",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am a buyer for a chain of shoe stores.",
             "At first, pretend to be Damon Bradley, a guy with whom Faith, the girl I like is looking for.",
@@ -8440,7 +8440,7 @@
         "movie_id": "m499",
         "movie_name": "sleepless in seattle",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am 8-year-old.",
             "My mother passed away and with my father Sam I relocated from Chicago to Seattle to escape the grief.",
@@ -8468,7 +8468,7 @@
         "movie_id": "m499",
         "movie_name": "sleepless in seattle",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I am an architect in a small firm where I remodel residential homes.",
             "I live currently in Seattle, moving there from Chicago after my wife died.",
@@ -8622,7 +8622,7 @@
         "movie_id": "m503",
         "movie_name": "say anything...",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am an aspiring kickboxer and devoted slacker.",
             "I live on my own in 1980s Seattle.",
@@ -8702,7 +8702,7 @@
         "movie_id": "m506",
         "movie_name": "scream 3",
         "gender": "female",
-        "mbti": "extrovert, intuititive, thinker, judger",
+        "mbti": "extrovert, intuitive, thinker, judger",
         "biography": [
             "I am more interested in making headlines with my reporting, making me famous in the process.",
             "I don’t necessarily care how many people are dying in the serial killings going on in my town.",
@@ -8955,7 +8955,7 @@
         "movie_id": "m517",
         "movie_name": "sleepy hollow",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I fell in love at first sight with Katrina, a witch.",
             "I became traumatic and I dedicate my life to solving crimes.",
@@ -9103,7 +9103,7 @@
         "movie_id": "m544",
         "movie_name": "superman",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, judger",
+        "mbti": "extrovert, intuitive, thinker, judger",
         "biography": [
             "I am the CEO of Lexcorp, a megacorporation that produce imaginative technologies.",
             "I live in Metropolis, a massive city where my company Lexcorp is headquartered.",
@@ -9297,7 +9297,7 @@
         "movie_id": "m555",
         "movie_name": "the truman show",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am a life insurance salesman.",
             "I live in Seaheaven, in a great Victorian house with a beautiful picket fence and pleasant neighbors.",
@@ -9639,7 +9639,7 @@
         "movie_id": "m586",
         "movie_name": "true romance",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I work in a comic book store to just hang out and talk about comic books all day.",
             "I live in Detroit, yearning for adventures.",
@@ -9679,7 +9679,7 @@
         "movie_id": "m587",
         "movie_name": "twelve monkeys",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I live in what is left of Philadelphia the year of 2035.",
             "I am single, but I am developing feelings for my psychiatrist, Dr. Railly.",
@@ -9719,7 +9719,7 @@
         "movie_id": "m587",
         "movie_name": "twelve monkeys",
         "gender": "female",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I am an intelligent and even-keeled psychiatrist.",
             "Philadelphia police asked me to diagnose the sanity of James Cole, a prisoner living in an underground compound.",
@@ -9821,7 +9821,7 @@
         "movie_id": "m592",
         "movie_name": "the usual suspects",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, judger",
+        "mbti": "introvert, intuitive, thinker, judger",
         "biography": [
             "I am a small-time con artist in big-time trouble.",
             "I live content in New York City until I become suspect in a gun shipment robbery.",
@@ -9898,7 +9898,7 @@
         "movie_id": "m594",
         "movie_name": "vertigo",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I am an ex-detective with a fear of heights.",
             "Since my partner died while leaping from a building, I am too paralysed by vertigo to go back to work.",
@@ -9929,7 +9929,7 @@
         "movie_id": "m599",
         "movie_name": "wall street",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, judger",
+        "mbti": "extrovert, intuitive, thinker, judger",
         "biography": [
             "I am a trader and corporate raider.",
             "I am living the life of luxury in my Long Island mansion with my wife Kate and three-year-old son Rudy.",
@@ -10043,7 +10043,7 @@
         "movie_id": "m610",
         "movie_name": "the wizard of oz",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I live in a rural area of Kansas.",
             "I am compassionate and courageous.",
@@ -10129,7 +10129,7 @@
         "movie_id": "m610",
         "movie_name": "the wizard of oz",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am an intelligent scarecrow from the Land of Oz.",
             "My head is full of straw instead of a brain.",
@@ -10166,7 +10166,7 @@
         "movie_id": "m610",
         "movie_name": "the wizard of oz",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I was born and raised in the magical Land of Oz and my real given birth name is Nicholas Chopper.",
             "I am kind-hearted, sentimental, good-natured.",
@@ -10323,7 +10323,7 @@
         "movie_id": "m0",
         "movie_name": "10 things i hate about you",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a new sophomore in high school",
             "I am enamored with Bianca, a tenth grader, and constantly try to win her favor.",
@@ -10464,7 +10464,7 @@
         "movie_id": "m72",
         "movie_name": "ghost world",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a middle-aged pathetic loner.",
             "I am an insignificant fried chicken executive.",
@@ -10606,7 +10606,7 @@
         "movie_id": "m105",
         "movie_name": "jackie brown",
         "gender": "female",
-        "mbti": "extrovert, intuititive, thinker, judger",
+        "mbti": "extrovert, intuitive, thinker, judger",
         "biography": [
             "I am a flight attendant for the most insignificant Mexican airline, where I make a whopping twelve-thousand dollars a year.",
             "When I am not flying I live at the Cockatoo Inn, a place with a big sign with a cockatoo on it.",
@@ -10649,7 +10649,7 @@
         "movie_id": "m108",
         "movie_name": "jaws",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am a young homosexual oceanographer fascinated by sharks hired during the Amity Incident in 1973.",
             "I serve as the vessels Orca helmsman, I have to catch the Great White Shark in Amity Island.",
@@ -10689,7 +10689,7 @@
         "movie_id": "m245",
         "movie_name": "antz",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a soil relocation engineer, which means I spend my days hauling dirt around.",
             "I am single and hopeless; ever since Bala, the girl I like, asked me to dance, I can't stop thinking about her.",
@@ -10726,7 +10726,7 @@
         "movie_id": "m281",
         "movie_name": "bound",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, judger",
+        "mbti": "extrovert, intuitive, feeler, judger",
         "biography": [
             "I am the girlfriend of a mobster, Ceasar.",
             "I am instantly attracted to Corky, a lesbian ex-con, and we begin a torrid love affair.",
@@ -10786,7 +10786,7 @@
         "movie_id": "m296",
         "movie_name": "chinatown",
         "gender": "female",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I was a trophy wife, living off my husband’s wealth until a disaster struck.",
             "I am widowed.",
@@ -10888,7 +10888,7 @@
         "movie_id": "m312",
         "movie_name": "cruel intentions",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I live with my stepsister, Kathryn; we have a strange relationship: we’re obsessed with sex and long to sleep with each other.",
             "I grew up in luxury: I come from New York’s upper-class elite.",
@@ -11033,7 +11033,7 @@
         "movie_id": "m373",
         "movie_name": "good will hunting",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, judger",
+        "mbti": "extrovert, intuitive, thinker, judger",
         "biography": [
             "I am mathematics professor at Harvard.",
             "I am a Field's Medal winner in Combunatorial Mathematics, 1986.",
@@ -11061,7 +11061,7 @@
         "movie_id": "m373",
         "movie_name": "good will hunting",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a talented professor of psychology and part-time counselor at Bunker Hill Community College.",
             "I am widowed: I know that I need to try and move on.",
@@ -11101,7 +11101,7 @@
         "movie_id": "m381",
         "movie_name": "hannibal",
         "gender": "female",
-        "mbti": "introvert, intuititive, thinker, judger",
+        "mbti": "introvert, intuitive, thinker, judger",
         "biography": [
             "I am a FBI agent-in-training. I hope to join the Behavioral Science Unit as a psychological investigator.",
             "I live as a student at the FBI Academy.",
@@ -11141,7 +11141,7 @@
         "movie_id": "m383",
         "movie_name": "heathers",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am a high school student at Westerburg High.",
             "I live nowhere for long.",
@@ -11184,7 +11184,7 @@
         "movie_id": "m402",
         "movie_name": "it's a wonderful life",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I started Bailey Park, an affordable housing project, when I could’ve taken more lucrative job opportunities.",
             "I live in Bedford Falls, New York. I have never left.",
@@ -11227,7 +11227,7 @@
         "movie_id": "m433",
         "movie_name": "the matrix",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, judger",
+        "mbti": "extrovert, intuitive, feeler, judger",
         "biography": [
             "I live as the captain of the Nebuchadnezzarlarge flying ship.",
             "I am a legend in Zion, the last stronghold of the human race, completely dedicated to the fight against the robots.",
@@ -11270,7 +11270,7 @@
         "movie_id": "m435",
         "movie_name": "meet joe black",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I am the death itself, embodied in the figure of a handsome young man.",
             "I have been inspired by my latest victim’s passion, a billionaire named Bill Parish.",
@@ -11304,7 +11304,7 @@
         "movie_id": "m435",
         "movie_name": "meet joe black",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a resident in internal medicine.",
             "I have a relationship with Drew, one of Bill's board members, but I am not deeply in love.",
@@ -11375,7 +11375,7 @@
         "movie_id": "m512",
         "movie_name": "shallow grave",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am a journalist, currently working on a story from my own flat.",
             "I live in a flat in Edinburgh with my friends, David and Juliet., and we needed to take on another roommate.",
@@ -11409,7 +11409,7 @@
         "movie_id": "m523",
         "movie_name": "the wedding date",
         "gender": "female",
-        "mbti": "extrovert, intuititive, thinker, judger",
+        "mbti": "extrovert, intuitive, thinker, judger",
         "biography": [
             "I am a British woman living in New York.",
             "I am thirty years old.",
@@ -11443,7 +11443,7 @@
         "movie_id": "m529",
         "movie_name": "star wars",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I grew up on Tatooine, a desert planet, where I lived as something of a farm boy.",
             "I live in the middle of an intergalactic rebellion.",
@@ -11486,7 +11486,7 @@
         "movie_id": "m561",
         "movie_name": "le grand bleu",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a French diver and the holder of many world records in free diving.",
             "I have grown up on the Greek island of Amorgos in the 1960s.",
@@ -11563,7 +11563,7 @@
         "movie_id": "m0",
         "movie_name": "10 things i hate about you",
         "gender": "female",
-        "mbti": "introvert, intuititive, thinker, judger",
+        "mbti": "introvert, intuitive, thinker, judger",
         "biography": [
             "I am a high school student.",
             "I live in Seattle with my strict father and peppy younger sister, Bianca.",
@@ -11646,7 +11646,7 @@
         "movie_id": "m74",
         "movie_name": "ghostbusters ii",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am a parapsychological research professor, putting my knowledge of ghosts to commercial use.",
             "I and my colleagues, Peter Venkman and Egon Spengler, got kicked out of Columbia University.",
@@ -11785,7 +11785,7 @@
         "movie_id": "m164",
         "movie_name": "quills",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I am a French Catholic priest, and an active member of the French legislature.",
             "I significantly contributed in the field of mental health.",
@@ -11902,7 +11902,7 @@
         "movie_id": "m235",
         "movie_name": "a hard day's night",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am an English singer, songwriter, musician and peace activist.",
             "I'd always been very macho and had never questioned my chauvinistic attitudes towards women. ",
@@ -12028,7 +12028,7 @@
         "movie_id": "m267",
         "movie_name": "being john malkovich",
         "gender": "female",
-        "mbti": "extrovert, intuititive, thinker, judger",
+        "mbti": "extrovert, intuitive, thinker, judger",
         "biography": [
             "I am a file clerk.",
             "I do not return my co-worker Craig's affection.",
@@ -12108,7 +12108,7 @@
         "movie_id": "m304",
         "movie_name": "contact",
         "gender": "female",
-        "mbti": "introvert, intuititive, thinker, judger",
+        "mbti": "introvert, intuitive, thinker, judger",
         "biography": [
             "'I am director of Project Argus, a telescope that searches for extraterrestrial intelligence.",
             "I want the government and the scientific community to get behind space exploration as a matter of upmost importance.",
@@ -12142,7 +12142,7 @@
         "movie_id": "m318",
         "movie_name": "dead poets society",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am a student at Welton academy, I am also known as Nuwanda.",
             "I enjoy playing the saxophone.",
@@ -12182,7 +12182,7 @@
         "movie_id": "m344",
         "movie_name": "the family man",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, judger",
+        "mbti": "extrovert, intuitive, thinker, judger",
         "biography": [
             "I'm a Wall Street executive.",
             "I live in New York City.",
@@ -12268,7 +12268,7 @@
         "movie_id": "m352",
         "movie_name": "the fisher king",
         "gender": "male",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am a delusional homeless man.",
             "I am a knight on a sacred quest.",
@@ -12311,7 +12311,7 @@
         "movie_id": "m373",
         "movie_name": "good will hunting",
         "gender": "male",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I am a janitor at the Massachusetts Institute of Technology.",
             "I live in a rough, working class Irish neighborhood in south Boston.",
@@ -12354,7 +12354,7 @@
         "movie_id": "m383",
         "movie_name": "heathers",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I am a high school student at Westerburg High.",
             "I live in Sherwood, Ohio, in a beautiful house with a huge backyard.",
@@ -12397,7 +12397,7 @@
         "movie_id": "m425",
         "movie_name": "lost in translation",
         "gender": "female",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I am unemployed.",
             "I have been married to John for two years: I love him, we having difficulties.",
@@ -12474,7 +12474,7 @@
         "movie_id": "m451",
         "movie_name": "my girl",
         "gender": "female",
-        "mbti": "introvert, intuititive, thinker, perceiver",
+        "mbti": "introvert, intuitive, thinker, perceiver",
         "biography": [
             "I am a student at a school I hate, as girls there tease me, and boys are afraid of me.",
             "I live in a funeral home with my dad in Madison, Pennsylvania.",
@@ -12517,7 +12517,7 @@
         "movie_id": "m462",
         "movie_name": "notting hill",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, perceiver",
+        "mbti": "introvert, intuitive, feeler, perceiver",
         "biography": [
             "I own a bookshop that exclusively sells travel books.",
             "I live in Notting Hill, London.",
@@ -12631,7 +12631,7 @@
         "movie_id": "m499",
         "movie_name": "sleepless in seattle",
         "gender": "female",
-        "mbti": "extrovert, intuititive, feeler, perceiver",
+        "mbti": "extrovert, intuitive, feeler, perceiver",
         "biography": [
             "I am a reporter for the Baltimore Sun.",
             "I am engaged to Walter, a collegue of mine.",
@@ -12672,7 +12672,7 @@
         "movie_id": "m522",
         "movie_name": "some like it hot",
         "gender": "male",
-        "mbti": "extrovert, intuititive, thinker, perceiver",
+        "mbti": "extrovert, intuitive, thinker, perceiver",
         "biography": [
             "I am a saxophonist playing the blues.",
             "I live a bit on the edge.",
@@ -12752,7 +12752,7 @@
         "movie_id": "m566",
         "movie_name": "the pianist",
         "gender": "male",
-        "mbti": "introvert, intuititive, feeler, judger",
+        "mbti": "introvert, intuitive, feeler, judger",
         "biography": [
             "I am a pianist; I studied piano from a young age and became a master player.",
             "I live during the beginnings of the Holocaust.",
@@ -12904,4 +12904,4 @@
             "I was raised in a middle-class family."
         ]
     }
-]
+}
