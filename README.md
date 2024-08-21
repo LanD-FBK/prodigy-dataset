@@ -50,12 +50,22 @@ Further details can be found in our paper:
 Daniela Occhipinti, Serra Sinem Tekiroglu, Marco Guerini. 2023. *PRODIGy: a PROfile-based DIalogue Generation dataset*. arXiv preprint arXiv:2311.05195
 
 ```bibtex
-@misc{occhipinti2023prodigy,
-  title={PRODIGy: a PROfile-based DIalogue Generation dataset},
-  author={Daniela Occhipinti and Serra Sinem Tekiroglu and Marco Guerini},
-  year={2023},
-  eprint={2311.05195},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL}
+@inproceedings{occhipinti-etal-2024-prodigy,
+    title = "{PRODIG}y: a {PRO}file-based {DI}alogue Generation dataset",
+    author = "Occhipinti, Daniela  and
+      Tekiroglu, Serra  and
+      Guerini, Marco",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2024",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-naacl.222",
+    doi = "10.18653/v1/2024.findings-naacl.222",
+    pages = "3500--3514",
+    abstract = "Providing dialogue agents with a profile representation can improve their consistency and coherence, leading to better conversations. However, current profile-based dialogue datasets for training such agents contain either explicit profile representations that are simple and dialogue-specific, or implicit representations that are difficult to collect. In this work, we introduce the PRODIGy (PROfile-based DIalogue Generation) dataset, which brings diverse representations together, providing a more comprehensive profile dimension set for each speaker. This resource comprises more than 20k dialogues, sourced from movie scripts, aligned with speaker representations such as communication style, biography, personality and gender. Initial experiments with diverse baselines show that providing generative language models with these aspects of a profile, both separately and jointly, enhances models{'} performance. This improvement holds true in both in-domain and cross-domain settings, for both fine-tuned and instruction-based LLMs.",
 }
 ```
