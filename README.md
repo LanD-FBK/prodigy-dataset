@@ -47,8 +47,6 @@ For a deeper understanding of these experimental configurations, refer to our pa
 
 Further details can be found in our paper:
 
-Daniela Occhipinti, Serra Sinem Tekiroglu, Marco Guerini. 2023. *PRODIGy: a PROfile-based DIalogue Generation dataset*. arXiv preprint arXiv:2311.05195
-
 ```bibtex
 @inproceedings{occhipinti-etal-2024-prodigy,
     title = "{PRODIG}y: a {PRO}file-based {DI}alogue Generation dataset",
