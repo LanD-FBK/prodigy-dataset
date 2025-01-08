@@ -45,7 +45,7 @@ For a deeper understanding of these experimental configurations, refer to our pa
 
 ## Citation 
 
-Further details can be found in our paper:
+If you use the PRODIGy dataset in your research, please cite the following paper:
 
 ```bibtex
 @inproceedings{occhipinti-etal-2024-prodigy,
